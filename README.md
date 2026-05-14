@@ -37,17 +37,7 @@
 ## 🛠️ Tools & Platforms
 [![Tools Skills](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://skillicons.dev)
 
----
 
-
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=bahzad-elly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
 
 ---
 
