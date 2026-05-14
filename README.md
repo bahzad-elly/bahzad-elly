@@ -4,7 +4,7 @@
 
 ### Full Stack Software Developer 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Java+%7C+PHP+%7C+React+Developer;Backend+and+Frontend+Engineer;Flutter+and+Mobile+App+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Node+%7C+Laravel+%7C+Flask+Developer;Backend+and+Frontend+Engineer;Flutter+and+Mobile+App+Developer;Always+Learning+New+Technologies" />
 
 </div>
 
