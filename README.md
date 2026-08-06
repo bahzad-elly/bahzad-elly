@@ -26,7 +26,7 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind)](https://skillicons.dev)
 
 ## ⚙️ Backend
-[![Backend Skills](https://skillicons.dev/icons?i=php,nodejs,java,python,flask,laravel)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=php,nodejs,java,python,c#,flask,laravel)](https://skillicons.dev)
 
 ## 🗄️ Databases
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase)](https://skillicons.dev)
@@ -35,7 +35,7 @@
 [![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
 ## 🛠️ Tools & Platforms
-[![Tools Skills](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://skillicons.dev)
+[![Tools Skills](https://skillicons.dev/icons?i=git,github,linux,docker,vscode)](https://skillicons.dev)
 
 
 
