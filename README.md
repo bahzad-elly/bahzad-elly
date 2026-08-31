@@ -14,10 +14,10 @@
 # 🚀 Tech Stack
 
 ## 🌐 Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind)](https://skillicons.dev)
 
 ## ⚙️ Backend
-[![Backend Skills](https://skillicons.dev/icons?i=php,nodejs,java,python,c#,flask,laravel,typescript)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=php,nodejs,java,python,c#,flask,laravel,ts)](https://skillicons.dev)
 
 ## 🗄️ Databases
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase)](https://skillicons.dev)
