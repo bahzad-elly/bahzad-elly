@@ -10,15 +10,6 @@
 
 ---
 
-# 💫 About Me
-
-💻 Full Stack Software Developer  
-🔥 Passionate about creating modern and powerful applications  
-⚡ Experienced in Backend, Frontend, Databases, and Mobile Development  
-🐧 Linux User  
-🚀 Always learning new technologies and improving my programming skills  
-
----
 
 # 🚀 Tech Stack
 
@@ -26,7 +17,7 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind)](https://skillicons.dev)
 
 ## ⚙️ Backend
-[![Backend Skills](https://skillicons.dev/icons?i=php,nodejs,java,python,c#,flask,laravel)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=php,nodejs,java,python,c#,flask,laravel,typescript)](https://skillicons.dev)
 
 ## 🗄️ Databases
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase)](https://skillicons.dev)
@@ -39,27 +30,3 @@
 
 
 
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/bahzad-elly">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 👨‍💻 Currently Working With
-
-```txt
-HTML • CSS • JavaScript • TypeScript
-PHP • Laravel • Node.js
-Java • Python • Flask
-React • Bootstrap • Tailwind CSS
-Flutter • Dart • Firebase
-MySQL • PostgreSQL • SQLite
-Git • Linux
